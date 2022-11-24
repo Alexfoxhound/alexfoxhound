@@ -1,3 +1,10 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=(0,255,0)&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Alexsandro+Rodrigues+;I'm+36+years+old;I'm+from+Brazil;I+student+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+
+
+
+
+
 
 
 - 🔭 Estou trabalhando em codigos proprios
@@ -8,7 +15,6 @@
 - ⚡ Curiosidade:Apaixonado por tatuagens e tocar violão!
 
 ![Profile views](https://gpvc.arturio.dev/Alexfoxhound)
-## Oiii eu sou o Alexsandro Rodrigues,fanatico por tecnologia!
 <div align="center">
 
  <table>
