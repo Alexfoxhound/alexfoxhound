@@ -31,7 +31,7 @@
   </table>
 
 
- 
+     
   <a href="https://github.com/Alexfoxhound">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexfoxhound&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexfoxhound&layout=compact&langs_count=7&theme=merko"/>
@@ -46,6 +46,10 @@
   <img align="center" alt="alex-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="alex-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/114617936/203847899-5239570a-f1ec-4e6f-9f95-e8283a13dc94.png">
 
+ 
+    
+ 
+ 
 </div>
   
   ##
