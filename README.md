@@ -14,22 +14,24 @@
  <table>
     <tr>
       <td>
-        <b>🎓 Cientista da Computação</b>
+        <b> 😎my world</b>
       </td>
       <td>
-        <b>🧪 Tester Pleno</b>
+        <b> go ahead!</b>
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://apilgriminnarnia.files.wordpress.com/2018/09/legally-blonde-laptop-e1536078931635.jpg" width="300px" height="170px">
+        <img src="https://img.freepik.com/fotos-premium/fundo-de-tecnologia-abstrata-de-codigo-de-programacao-do-desenvolvedor-de-software-e-script-de-computador_34663-31.jpg?w=360" width="300px" height="170px">
       </td>
       <td>
-          <img src="https://reactiongifs.me/wp-content/uploads/2019/05/Testers-Vs-Developers.gif" width="300px" height="170px">
+          <img src="https://www.digitalhouse.com/br/blog/content/images/2022/07/Copia-de-gif.gif" width="300px" height="170px">
       </td>
     </tr>
   </table>
 
+
+ 
   <a href="https://github.com/Alexfoxhound">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexfoxhound&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexfoxhound&layout=compact&langs_count=7&theme=merko"/>
