@@ -1,12 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=(0,255,0)&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Alexsandro+Rodrigues+;I'm+36+years+old;I'm+from+Brazil;I+student+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-
-
-
-
-
-
 - 🔭 Estou trabalhando em codigos proprios
 - 🌱 Atualmente estou aprendendo front-end
 - 👯 Estou procurando colaborar com outros desenvolvedores
@@ -28,7 +22,7 @@
     </tr>
     <tr>
       <td>
-        <img src="https://img.freepik.com/fotos-premium/fundo-de-tecnologia-abstrata-de-codigo-de-programacao-do-desenvolvedor-de-software-e-script-de-computador_34663-31.jpg?w=360" width="300px" height="170px">
+        <img src="https://img.freepik.com/fotos-premium/fundo-de-tecnologia-abstrata-de-codigo-de-programacao-do-desenvolvedor-de-software-e-script-de-computador_34663-31.jpg?w=360" width="300px"  height="170px">
       </td>
       <td>
           <img src="https://www.digitalhouse.com/br/blog/content/images/2022/07/Copia-de-gif.gif" width="300px" height="170px">
@@ -68,7 +62,7 @@
  ![snake gif](https://github.com/Alexfoxhound/Alexfoxhound/blob/output/github-contribution-grid-snake.svg)
  <b>Além da programação...</b>
 
-- Esprotes Radicais,academia e violao(rsrsrs).
+- Esprotes Radicais,academia e violão(rsrsrs).
 - Tenho para mim que:"O homem que não reconhece o seu passado não terá futuro!"
 - Adoro viajar,malhar,juntar a turma(violão),festas,desenvolver algo novo e games.As vezes sismo que sou bom para cantar e posto algumas coisas no insta,rsrsrsr.
 - Acho que se preocupar é como estar numa cadeira de balanço, te dá o que fazer mas não leva a lugar nenhum.. 
