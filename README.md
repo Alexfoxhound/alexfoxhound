@@ -14,10 +14,10 @@
  <table>
     <tr>
       <td>
-        <b> 😎my world</b>
+        <b> 😎 my world</b>
       </td>
       <td>
-        <b> go ahead!</b>
+        <b> 😉 go ahead!</b>
       </td>
     </tr>
     <tr>
