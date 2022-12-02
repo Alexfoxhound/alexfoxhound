@@ -62,7 +62,7 @@
  ![snake gif](https://github.com/Alexfoxhound/Alexfoxhound/blob/output/github-contribution-grid-snake.svg)
  <b>Além da programação...</b>
 
-- Esprotes Radicais,academia e violão(rsrsrs).
+- Esportes Radicais,academia e violão(rsrsrs).
 - Tenho para mim que:"O homem que não reconhece o seu passado não terá futuro!"
 - Adoro viajar,malhar,juntar a turma(violão),festas,desenvolver algo novo e games.As vezes sismo que sou bom para cantar e posto algumas coisas no insta,rsrsrsr.
 - Acho que se preocupar é como estar numa cadeira de balanço, te dá o que fazer mas não leva a lugar nenhum.. 
