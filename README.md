@@ -1,11 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+world!;Developer!)
-
-- 🔭 Estou trabalhando em codigos variados
-- 🌱 Atualmente estou aprendendo front-end
-- 👯 Estou procurando colaborar com outros desenvolvedores
-- 🤔 Estou procurando ajuda,se algo estiver errado
-- 📫 Como chegar ate min:alexsandrofox8851@gmail.com
-- ⚡ Curiosidade:Apaixonado por tatuagens e tocar violão!
+<div align="center"><h2>Ola!!! Sou  Alexsandro Rodrigues, apaixonado por conteúdo de programação e tecnologia!</h2>
 
 ![Profile views](https://gpvc.arturio.dev/Alexfoxhound)
 <div align="center">
