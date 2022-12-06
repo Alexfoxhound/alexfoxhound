@@ -50,10 +50,5 @@
      <a href="https://www.linkedin.com/in/alexsandro-rodrigues88510576/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  ![snake gif](https://github.com/Alexfoxhound/Alexfoxhound/blob/output/github-contribution-grid-snake.svg)
-               <p> <b>Além da programação...</b> </p>
-
-- Esportes Radicais,academia e violão(rsrsrs).
-- Tenho para mim que:"O homem que não reconhece o seu passado não terá futuro!"
-- Adoro viajar,malhar,juntar a turma(violão),festas,desenvolver algo novo e games.As vezes sismo que sou bom para cantar e posto algumas coisas no insta,rsrsrsr.
-- Acho que se preocupar é como estar numa cadeira de balanço, te dá o que fazer mas não leva a lugar nenhum.. 
+             
 </div>
