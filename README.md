@@ -1,6 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+world!;Developer!)
 
-
 - 🔭 Estou trabalhando em codigos variados
 - 🌱 Atualmente estou aprendendo front-end
 - 👯 Estou procurando colaborar com outros desenvolvedores
@@ -47,8 +46,6 @@
   <img align="right" alt="alex-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/114617936/203847899-5239570a-f1ec-4e6f-9f95-e8283a13dc94.png">
 
  
-    
- 
  
 </div>
   
@@ -60,7 +57,7 @@
      <a href="https://www.linkedin.com/in/alexsandro-rodrigues88510576/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  ![snake gif](https://github.com/Alexfoxhound/Alexfoxhound/blob/output/github-contribution-grid-snake.svg)
- <b>Além da programação...</b>
+               <p> <b>Além da programação...</b> </p>
 
 - Esportes Radicais,academia e violão(rsrsrs).
 - Tenho para mim que:"O homem que não reconhece o seu passado não terá futuro!"
