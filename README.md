@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+world!;Alexsandro+Rodrigues+Silveira)(https://git.io/Alexfoxhound
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+world!;Alexsandro+Rodrigues+Silveira)
 
 
 - 🔭 Estou trabalhando em codigos variados
