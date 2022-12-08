@@ -1,4 +1,5 @@
-<div align="center"><h2>Ola!!! Sou  Alexsandro Rodrigues, apaixonado por conteúdo de programação e tecnologia!</h2>
+<h1 align="center">Hi 👋, I'm Alexsandro Rodrigues </h1>
+<h3 align="center">Web Developer,student of analysis and development.</h3>
 
 ![Profile views](https://gpvc.arturio.dev/Alexfoxhound)
 <div align="center">
