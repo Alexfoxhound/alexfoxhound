@@ -9,17 +9,12 @@
       <td>
         <b> 😎 my world</b>
       </td>
-      <td>
-        <b> 😉 go ahead!</b>
-      </td>
     </tr>
     <tr>
       <td>
         <img src="https://img.freepik.com/fotos-premium/fundo-de-tecnologia-abstrata-de-codigo-de-programacao-do-desenvolvedor-de-software-e-script-de-computador_34663-31.jpg?w=360" width="300px"  height="170px">
       </td>
-      <td>
-          <img src="https://www.digitalhouse.com/br/blog/content/images/2022/07/Copia-de-gif.gif" width="300px" height="170px">
-      </td>
+      
     </tr>
   </table>
  
