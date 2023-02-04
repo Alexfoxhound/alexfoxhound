@@ -10,12 +10,12 @@
         <b> 😎 my world</b>
       </td>
     </tr>
-    <tr>
+   <tr>
       <td>
         <img src="https://img.freepik.com/fotos-premium/fundo-de-tecnologia-abstrata-de-codigo-de-programacao-do-desenvolvedor-de-software-e-script-de-computador_34663-31.jpg?w=360" width="300px"  height="170px">
       </td>
       
-    </tr>
+    
   </table>
  
   <a href="https://github.com/Alexfoxhound">
