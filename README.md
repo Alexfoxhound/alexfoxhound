@@ -18,10 +18,18 @@
     
   </table>
  
-  <a href="https://github.com/Alexfoxhound">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexfoxhound&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexfoxhound&layout=compact&langs_count=7&theme=merko"/>
+ 
+ <div>
+<a href="https://github.com/alexfoxhound">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexfoxhound&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexfoxhound&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+ 
+ 
+ 
+ 
+  <a href="https://github.com/Alexfoxhound">
+ 
 <div style="display: inline_block"><br>
 
   <img align="right" alt="alex-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/114617936/203847899-5239570a-f1ec-4e6f-9f95-e8283a13dc94.png">
@@ -33,12 +41,15 @@
   ##
  
 <div> 
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="alex-fox" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="alex-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="alex-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="alex-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="alex-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  
+ 
+ 
+
  
  
  
