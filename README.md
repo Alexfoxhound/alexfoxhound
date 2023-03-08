@@ -1,21 +1,22 @@
-<h1 align="center">Hi 👋, I'm Alexsandro Rodrigues </h1>
-<h3 align="center">Web Developer,student of analysis and development.</h3>
+Hi 👋 My name is Alexsandro Rodrigues Silveira!
+==========================
 
-![Profile views](https://gpvc.arturio.dev/Alexfoxhound)
-<div align="center">
+Full Stack Software Developer
+-----------------------------
+I am also a student at 36 years old | MG, study Analysis and Development of Systems and in spare time I like to read books about codes and improvement.
 
- <table>
-    <tr>
-      <td>
-        <b> 😎 my world</b>
-      </td>
-    </tr>
-   <tr>
-      <td>
-        <img src="https://img.freepik.com/fotos-premium/fundo-de-tecnologia-abstrata-de-codigo-de-programacao-do-desenvolvedor-de-software-e-script-de-computador_34663-31.jpg?w=360" width="300px"  height="170px">
-      </td>
+* 🌍 I am based in Minas Gerais, Brazil 
+* ✉️ You can contact me at [alexsandrofox@gmail.com](mailto:alexsandrofox@gmail.com) 
+* 🚀 I am currently working on [Systems Development]
+* 🧠 I am learning Advanced JavaScript, Unit Tests and C/C++ programming languages 
+* 🤝 I am open to collaborating on projects that have a high impact on people's lives 
+* ⚡ I love sports, travel, meet people, work out, guitar, books and enjoyed life.
+
+<a href="https://github.com/Alexfoxhound" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
+
       
-    
+
   </table>
  
  
@@ -46,12 +47,11 @@
   <img align="center" alt="alex-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="alex-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="alex-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- 
- 
- 
+  
+  
 
  
- 
+
  
  ![snake gif](https://github.com/Alexfoxhound/Alexfoxhound/blob/output/github-contribution-grid-snake.svg)
              
